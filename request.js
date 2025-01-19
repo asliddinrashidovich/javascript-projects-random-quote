@@ -1,0 +1,22 @@
+const quotes = [
+    { id: 1, author: "Albert Einstein", quote: "Life is like riding a bicycle. To keep your balance, you must keep moving.", img: "https://example.com/images/einstein.jpg" },
+    { id: 2, author: "Maya Angelou", quote: "You will face many defeats in life, but never let yourself be defeated.", img: "https://example.com/images/angelou.jpg" },
+    { id: 3, author: "Oscar Wilde", quote: "Be yourself; everyone else is already taken.", img: "https://example.com/images/wilde.jpg" },
+    { id: 4, author: "Mark Twain", quote: "The secret of getting ahead is getting started.", img: "https://example.com/images/twain.jpg" },
+    { id: 5, author: "Confucius", quote: "It does not matter how slowly you go as long as you do not stop.", img: "https://example.com/images/confucius.jpg" },
+    { id: 6, author: "Walt Disney", quote: "The way to get started is to quit talking and begin doing.", img: "https://example.com/images/disney.jpg" },
+    { id: 7, author: "Eleanor Roosevelt", quote: "The future belongs to those who believe in the beauty of their dreams.", img: "https://example.com/images/roosevelt.jpg" },
+    { id: 8, author: "Nelson Mandela", quote: "It always seems impossible until it is done.", img: "https://example.com/images/mandela.jpg" },
+    { id: 9, author: "Steve Jobs", quote: "Your time is limited, so don’t waste it living someone else’s life.", img: "https://example.com/images/jobs.jpg" },
+    { id: 10, author: "Dalai Lama", quote: "Happiness is not something ready made. It comes from your own actions.", img: "https://example.com/images/dalai_lama.jpg" },
+    { id: 11, author: "Mother Teresa", quote: "Spread love everywhere you go. Let no one ever come to you without leaving happier.", img: "https://example.com/images/teresa.jpg" },
+    { id: 12, author: "Benjamin Franklin", quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn.", img: "https://example.com/images/franklin.jpg" },
+    { id: 13, author: "Aristotle", quote: "It is during our darkest moments that we must focus to see the light.", img: "https://example.com/images/aristotle.jpg" },
+    { id: 14, author: "Theodore Roosevelt", quote: "Believe you can and you're halfway there.", img: "https://example.com/images/theodore_roosevelt.jpg" },
+    { id: 15, author: "Henry Ford", quote: "Whether you think you can or you think you can’t, you’re right.", img: "https://example.com/images/ford.jpg" },
+    { id: 16, author: "John Lennon", quote: "Life is what happens when you’re busy making other plans.", img: "https://example.com/images/lennon.jpg" },
+    { id: 17, author: "Leonardo da Vinci", quote: "Simplicity is the ultimate sophistication.", img: "https://example.com/images/da_vinci.jpg" },
+    { id: 18, author: "Vincent Van Gogh", quote: "What would life be if we had no courage to attempt anything?", img: "https://example.com/images/van_gogh.jpg" },
+    { id: 19, author: "Ralph Waldo Emerson", quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.", img: "https://example.com/images/emerson.jpg" },
+    { id: 20, author: "Winston Churchill", quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.", img: "https://example.com/images/churchill.jpg" }
+  ];
