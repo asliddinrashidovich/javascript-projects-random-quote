@@ -1,4 +1,4 @@
-const quotes = [
+let quotes = [
     { id: 1, author: "Albert Einstein", quote: "Life is like riding a bicycle. To keep your balance, you must keep moving.", img: "https://example.com/images/einstein.jpg" },
     { id: 2, author: "Maya Angelou", quote: "You will face many defeats in life, but never let yourself be defeated.", img: "https://example.com/images/angelou.jpg" },
     { id: 3, author: "Oscar Wilde", quote: "Be yourself; everyone else is already taken.", img: "https://example.com/images/wilde.jpg" },
